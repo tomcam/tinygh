@@ -1,5 +1,7 @@
 # tinygh is the smallest GitHub Pages test
 
+See this on [GitHub Pages](https://tomcam.github.io/tinygh/)
+
 A miniature Jekyll-style installation with
 * Base `/docs` directory
 * A README.md that links to another page
