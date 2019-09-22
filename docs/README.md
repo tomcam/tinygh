@@ -3,7 +3,9 @@
 A miniature Jekyll-style installation with
 * Base `/docs` directory
 * A README.md that links to another page
-* A `_posts` directory with a couple of posts in it
+* A `_posts` directory with three posts in it. However:
+* The post for January 1 2019 is properly formed. The post for February 1 2019 is missing a `title` in the
+front matter. And the post for March 1 2019 has no front matter at all.
 
 Things it lacks
 * Any kind of custom  HTML or CSS
