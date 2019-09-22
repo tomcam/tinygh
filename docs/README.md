@@ -10,6 +10,6 @@ front matter. And the post for March 1 2019 has no front matter at all.
 
 Things it lacks
 * Any kind of custom  HTML or CSS
-* A `_config.yml` file (helps observe behavior when themse are changed)
+* A `_config.yml` file (helps observe behavior when themes are changed)
 
 Link to another [page](page.md)
