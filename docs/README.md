@@ -13,3 +13,5 @@ Things it lacks
 * A `_config.yml` file (helps observe behavior when themes are changed)
 
 Link to another [page](page.md)
+
+Jekyll reports the theme is: {{ site.theme }}
