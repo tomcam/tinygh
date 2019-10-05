@@ -1,8 +1,10 @@
-# tinygh is the smallest GitHub Pages/Jekyll test, with some VuePress observations
+# tinygh is the minimal GitHub Pages/Jekyll test, with some VuePress observations
 
 See this on [GitHub Pages](https://tomcam.github.io/tinygh/)
 
-A miniature Jekyll-style installation with
+This is a minimal Jekyll-style installation, which means it works on GitHub Pages.
+There's also some compatibility with VuePress. It consists of:
+
 * Base `/docs` directory
 * A README.md that links to another page
 * An orphan page named todo.md that no other page links to
